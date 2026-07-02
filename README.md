@@ -10,9 +10,9 @@ scenario, my code, and the actual output included.
 |---|---|---|
 | 1 | Design Patterns & Principles | ✅ Completed |
 | 2 | Data Structures & Algorithms | ✅ Completed |
-| 3 | PL/SQL Programming | ⏳ Pending |
-| 4 | TDD (JUnit & Mockito) + SLF4J Logging | ⏳ Pending |
-| 5 | Spring Core & Maven | ⏳ Pending |
+| 3 | PL/SQL Programming | ✅ Completed |
+| 4 | TDD (JUnit & Mockito) + SLF4J Logging | ✅ Completed |
+| 5 | Spring Core & Maven | ✅ Completed |
 | 6 | Spring Data JPA with Hibernate | ✅ Completed |
 | 7 | Spring REST (Spring Boot 3) | ⏳ Pending |
 | 8 | Microservices & Spring Cloud | ⏳ Pending |
