@@ -1,6 +1,6 @@
-# Cognizant Java FSE Phase 2 - Week 1 Assignment
+# Cognizant Java FSE - Week 1 Assignment
 
-## Exercise 1: Inventory Management System
+## Exercise 1- Inventory Management System
 
 ### Code
 
