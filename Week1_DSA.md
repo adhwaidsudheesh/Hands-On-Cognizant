@@ -72,13 +72,13 @@ public class InventoryManagement {
 
 ```
 Initial Inventory:
-101 - Laptop - Qty: 10 - Price: 55000.0
-102 - Mouse - Qty: 50 - Price: 600.0
-103 - Keyboard - Qty: 30 - Price: 1200.0
+101 - Laptop- Qty:10 - Price: 55000.0
+102 - Mouse- Qty:50 - Price: 600.0
+103 - Keyboard- Qty:30 - Price: 1200.0
 
 Updated Inventory:
-101 - Laptop - Qty: 10 - Price: 55000.0
-102 - Mouse - Qty: 45 - Price: 650.0
+101 - Laptop- Qty:10 - Price: 55000.0
+102 - Mouse  Qty: 45 - Price: 650.0
 ```
 
 ---
