@@ -1,4 +1,4 @@
-# Week1 PLSQL
+# Week-1 PL/SQL
 
 ## Exercise 1: Control Structures
 
