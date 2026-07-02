@@ -1,4 +1,4 @@
-# Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (React)
+# Cognizant Digital Nurture 5.0 – Java FSE (React)
 
 Hands-on solutions for the Cognizant DN 5.0 Java FSE Deep Skilling program.
 Each week's exercises are written up in their own file, with the problem
@@ -30,14 +30,7 @@ scenario, my code, and the actual output included.
 - `Week1_Assignment.md` – Design Patterns (Singleton, Factory Method) + DSA (E-commerce Search, Financial Forecasting)
 - `Week2_Part2_SpringDataJPA.md` – Spring Data JPA with Hibernate
 
-## How to run
 
-Each `.md` file has the exercise scenario, the Java source, and sample output.
-To run any snippet yourself:
-
-```bash
-javac ClassName.java
-java ClassName
 ```
 
 ## Author
