@@ -2,7 +2,7 @@
 
 ## Exercise 1: Create Spring Web Project
 
-**pom.xml**
+
 ```xml
 <dependencies>
     <dependency>
