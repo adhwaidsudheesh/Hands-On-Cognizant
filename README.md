@@ -15,7 +15,7 @@ scenario, my code, and the actual output included.
 | 5 | Spring Core & Maven | ✅ Completed |
 | 6 | Spring Data JPA with Hibernate | ✅ Completed |
 | 7 | Spring REST (Spring Boot 3) | ✅ Completed |
-| 8 | Microservices & Spring Cloud | ⏳ Pending |
+| 8 | Microservices & Spring Cloud |  ✅ Completed |
 | 9 | React | ⏳ Pending |
 | 10 | Application Debugging | ⏳ Pending |
 | 11 | Git | ⏳ Pending |
