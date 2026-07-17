@@ -16,7 +16,7 @@ scenario, my code, and the actual output included.
 | 6 | Spring Data JPA with Hibernate | ✅ Completed |
 | 7 | Spring REST (Spring Boot 3) | ✅ Completed |
 | 8 | Microservices & Spring Cloud |  ✅ Completed |
-| 9 | React | ⏳ Pending |
+| 9 | React |✅ Completed  |
 | 10 | Application Debugging | ⏳ Pending |
 | 11 | Git | ⏳ Pending |
 | 12 | DevOps / CI-CD | ⏳ Pending |
