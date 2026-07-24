@@ -17,7 +17,7 @@ scenario, my code, and the actual output included.
 | 7 | Spring REST (Spring Boot 3) | ✅ Completed |
 | 8 | Microservices  |  ✅ Completed |
 | 9 | React |✅ Completed  |
-| 11 | Git | ⏳ Pending |
+| 11 | Git |✅ Completed  |
 | 12 | DevOps | ⏳ Pending |
 
 
